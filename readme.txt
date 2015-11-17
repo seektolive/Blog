@@ -4,3 +4,4 @@ Git is free software distributed under the GPL.
 hello
 start
 Git has a mutable index called stage.
+add a new line
